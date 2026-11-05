@@ -1,0 +1,3 @@
+# La carpeta Scripts está enlazada dentro del proyecto de Unity,
+# que genera un .meta por cada fichero. No forman parte de la entrega.
+*.meta
